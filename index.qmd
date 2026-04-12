@@ -1,0 +1,41 @@
+<body style="background-color: #fffbf8">
+<div style="text-align: center;margin:auto;padding:auto;">
+
+
+# Fatmah Almeer's Personal Page
+
+<img src="Personal.png" style="width:150px; border-radius:100px">
+
+Social Data Analytics student at Penn State building data-driven projects and AI research tools, creating real-world solutions that are actively used and in the progress of being scaled.
+
+<a href="https://www.linkedin.com/in/fatmah-almeer-643b709b/" target="_blank"
+style="display:flex; align-items:center; justify-content:center; gap:8px; width:200px; padding:8px; margin:auto; border:2px solid #2E78B6; color:#2E78B6; color:2E78B6; text-align:center; text-decoration:none; border-radius:8px; transition:0.3s; font-weight:bold;"
+onmouseover="this.style.opacity=0.6"
+onmouseout="this.style.opacity=1">
+<img src="LinkedIn.png" style="width:20px; height:20px;">
+LinkedIn
+</a>
+
+<a href="https://github.com/fna106" target="_blank" style="display:flex; align-items:center; justify-content:center; gap:8px; width:200px; padding:8px; margin:auto; border:2px solid #24292e; color:#24292e; text-align:center; text-decoration:none; border-radius:8px; transition:0.3s; font-weight:bold;"
+onmouseover="this.style.opacity=0.6"
+onmouseout="this.style.opacity=1">
+<img src="GitHub.png" style="width:20px; height:20px;">
+GitHub
+</a>
+
+<a href="General_resume.pdf" target="_blank" style="display:flex; align-items:center; justify-content:center; gap:8px; width:200px; padding:8px; margin:auto; border:2px solid #2E7D32; color:#2E7D32; text-align:center; text-decoration:none; border-radius:8px; transition:0.3s; font-weight:bold;"
+onmouseover="this.style.opacity=0.8"
+onmouseout="this.style.opacity=1">
+<img src="File.png" style="width:20px; height:20px;">
+Resume
+</a>
+
+
+<a href="mailto:fna106@gmail.com" style="display:flex; align-items:center; justify-content:center; gap:8px; width:200px; padding:8px; margin:auto; border:2px solid #D44638; color:#D44638; text-align:center; text-decoration:none; border-radius:8px; transition:0.3s; font-weight:bold;"
+onmouseover="this.style.opacity=0.8"
+onmouseout="this.style.opacity=1">
+<img src="Email.png" style="width:20px; height:20px;">
+Email
+</a>
+
+</div>
