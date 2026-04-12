@@ -1,5 +1,5 @@
 <body style="background-color: #fffbf8">
-<div style="text-align: center;margin:auto;padding:auto;">
+<div style="text-align: center;margin:auto;padding:40px;">
 
 
 # Fatmah Almeer's Personal Page
